@@ -17,7 +17,7 @@ Todos los jugadores deben escribir una palabra que este relacionada con la opci�
 &nbsp;&nbsp;&nbsp;&nbsp;-Estadísticas de usuario (partidas jugadas, partidas ganadas)<br>
 &nbsp;-Los usuarios podrán o no, según se determine, modificar todos, algunos o ninguno de los campos por ellos mismos.<br>
 &nbsp;-Posibilidad de recuperar contraseña (en caso de olvidarse de ella)<br>
-<br><br>
+<br>
 **Diseño web adaptativo (responsive)**<br>
 Permite a página web cambiar su aspecto dinámicamente, adaptándose a diferentes anchos de pantalla (computadora de escritorio, tablet, celular)<br>
 Cuatro anchos de pantalla son considerados:
