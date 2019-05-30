@@ -1,5 +1,5 @@
 ## Sitio web Camaleón
-====== 
+
 **Descripción**<br>
 Basado en el juego de mesa "Camaleón". Al iniciar nueva ronda un jugador es elegido de forma secreta y al azar para ser el camaleón.<br> 
 <br> 
@@ -20,6 +20,7 @@ Todos los jugadores deben escribir una palabra que este relacionada con la opci�
 &nbsp;-Los usuarios podrán o no, según se determine, modificar todos, algunos o ninguno de los campos por ellos mismos.<br>
 &nbsp;-Posibilidad de recuperar contraseña (en caso de olvidarse de ella)<br>
 <br><br>
+
 **Diseño web adaptativo (responsive)**<br>
 Permite a página web cambiar su aspecto dinámicamente, adaptándose a diferentes anchos de pantalla (computadora de escritorio, tablet, celular)<br>
 Cuatro anchos de pantalla son considerados:
@@ -48,7 +49,8 @@ Celulares en vertical.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;-Permitir votación<br>
 &nbsp;&nbsp;&nbsp;&nbsp;-Permitir camaleón adivinar categoría<br>
 <br>
+
 ### Especificaciones técnicas
--lenguaje de programación: PHP 7.3.2	 
--base de datos:	MySQL	 
--estándares web: HTML5, CSS3, JavaScript
+-lenguaje de programación: PHP 7.3.2<br>	 
+-base de datos:	MySQL<br>	 
+-estándares web: HTML5, CSS3, JavaScript<br>
