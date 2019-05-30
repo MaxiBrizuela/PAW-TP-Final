@@ -13,7 +13,7 @@ Todos los jugadores deben escribir una palabra que este relacionada con la opci�
 **Soporte de usuarios:**<br>
 &nbsp;-posibilita el alta de usuarios (registrarse)<br>
 &nbsp;-usuario identificado:<br>
-&nbsp;&nbsp;-Nombre<br>
+        -Nombre<br>
 &nbsp;&nbsp;-E-mail<br>
 &nbsp;&nbsp;-Contraseña<br>
 &nbsp;&nbsp;-Estadísticas de usuario (partidas jugadas, partidas ganadas)<br>
